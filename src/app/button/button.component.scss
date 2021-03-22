@@ -20,4 +20,12 @@ button {
   color: #ffffff;
 
   padding: 11px 16px;
+
+  &.small {
+    height: 32px;
+  }
+
+  &.large {
+    height: 48px;
+  }
 }

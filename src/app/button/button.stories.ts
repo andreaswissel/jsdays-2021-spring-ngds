@@ -7,6 +7,7 @@ const Template = (args: ButtonComponent) => ({
 
 export default {
   title: 'Components/ButtonComponent',
+  component: ButtonComponent,
 };
 
 export const Default = Template.bind({});
