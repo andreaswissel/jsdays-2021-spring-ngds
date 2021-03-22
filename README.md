@@ -2,7 +2,7 @@
 
 [Angular Days Workshop](https://javascript-days.de/angular/robuste-design-systems-mit-storybook-und-angular-vom-konzept-zur-lebendigen-anwendung/), Tuesday March 23 2020
 
-Your trainer: [Andreas Wissel](https://twitter.com/andreas_wissel), INNOQ
+Your trainer: [Andreas Wissel](https://twitter.com/andreas_wissel), Freelance Consultant
 
 ## Setup
 
